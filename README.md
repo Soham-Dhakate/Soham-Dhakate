@@ -24,11 +24,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soham-Dhakate&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Soham's GitHub stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Soham-Dhakate&show_icons=true&theme=radical" alt="Soham's GitHub stats" />
 </p>
 
 ## 🤝 Connect with Me
 
 <a href="https://www.linkedin.com/in/soham-dhakate-4657bb433"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
+<a href="mailto:sohamdhakate44@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://discord.com/users/soham_442"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
